@@ -1,4 +1,4 @@
-## Welcome to my first Github map page
+## European Mediterranean earthquakes - an overview
 
 
 

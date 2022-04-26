@@ -4,8 +4,6 @@ The data that appears here has been downloaded from public websites. More specif
 
 Five datasets were downloaded from the INVG Euroseismos page that contain details on the data available for historical seismic events that happened as recently as 1999. As of April 2022 a total of 746 earthquakes are contained in the Italian database.
 
-**Bold** and _Italic_ and `Code` text
-
 ![This is a bar graph showing the distribution of earthquakes per year in the database](quakebyyr.png)
 ```
 

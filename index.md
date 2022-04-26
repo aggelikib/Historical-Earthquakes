@@ -1,6 +1,6 @@
 ## European Mediterranean earthquakes - an overview
 
-The data that appears here is contained in public websites. However, this is the beginning of making available data easier to understand after reviewing sorting and cleaning for better analysis.
+The data that appears here has been downloaded from public websites. More specifically, the first maps we present here comes from INGV (http://storing.rm.ingv.it/es_web/). The database contains historical earthquakes for the European Mediterranean region. Publically available databases are great for dissemination of important historical information to the scientific community. However, among many challenges lies also the fact that many databases often exist concurrently, containing regional data or some covering a whole continent (e.g. Europe). The databases are commonly not updated at the same rate and usually largely overlap or dont allow same access "rights" to users. As such this is a source of confusion. This is part of an ongoing project which aims to shed light to all these databases available for the European Mediterranean region while making clear what each of these database contain and how much they differ. The Eastern Mediterranean region is highly seismogenic and therefore such work is of great importance.
 
 **Bold** and _Italic_ and `Code` text
 

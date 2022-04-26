@@ -6,7 +6,7 @@ Five datasets were downloaded from the INVG Euroseismos page that contain detail
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](quakebyyr.png)
+![This is a bar graph showing the distribution of earthquakes per year in the database](quakebyyr.png)
 ```
 
 <iframe src="Earthquakes-add-markers-on-folium-map.html" height="500" width="500"></iframe>
